@@ -1,6 +1,5 @@
 # KeepAwake
 
-**Description**:  
 KeepAwake is a lightweight Python-based utility designed to prevent your computer from going into sleep mode or locking the screen due to inactivity. It achieves this by periodically simulating a key press and ensuring system awake states. Additionally, it runs unobtrusively in the system tray with an easy-to-use context menu for basic control.
 
 ---
